@@ -1,0 +1,15 @@
+.logo {
+    margin-right: 3rem;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    color: #484554;
+    text-decoration: none;
+}
+
+.navLink {
+    color: #484554;
+    display: flex;
+    column-gap: 0.5rem;
+    text-decoration: none;
+    cursor: pointer;
+}
